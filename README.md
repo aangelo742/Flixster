@@ -4,15 +4,15 @@ Submitted by: **Angelo Alvarado**
 
 **Flixster** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
-- [ ] **Parse through JSON data and implement a RecyclerView to display all movies**
-- [ ] **Use Glide to load and display movie poster images**
+- [x] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
+- [x] **Parse through JSON data and implement a RecyclerView to display all movies**
+- [x] **Use Glide to load and display movie poster images**
 
 The following **optional** features are implemented:
 
@@ -33,11 +33,9 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Recordit
+
+![flixster_project3](https://user-images.githubusercontent.com/83144033/193353600-7a756b41-c6db-4053-b973-64b9f312ff02.gif)
 
 ## Notes
 
